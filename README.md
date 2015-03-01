@@ -57,7 +57,7 @@ You have to add filename extension! (.py, .txt, etc)
 
 You have to add source file into folder of your group
 
-[Analog modulation (Amplitude modulation as an example)]: https://github.com/dep403mai/Radiotech/tree/master/Lab1
-[Digital modulation (Amplitude shift keying (ASK) as an example)]: https://github.com/dep403mai/Radiotech/tree/master/Lab2
-[Coding (Hamming code (7,4,3) as an example)]: https://github.com/dep403mai/Radiotech/tree/master/Lab3
+[Analog modulation (Amplitude modulation as an example)]: https://github.com/dep403mai/Labs_on_open_soft_-2015_year-/blob/master/Lab1_example.py
+[Digital modulation (Amplitude shift keying (ASK) as an example)]: https://github.com/dep403mai/
+[Coding (Hamming code (7,4,3) as an example)]: https://github.com/dep403mai/
 
