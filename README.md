@@ -16,7 +16,7 @@ Windows
 
 If you're running Windows x32 you have to install following packages:
 
-1. python-2.7.6 http://www.python.org/download/releases/2.7.6/
+1. python-2.7.8 https://www.python.org/download/releases/2.7.8/
 2. matplotlib-1.3.1.win32-py2.7 http://www.lfd.uci.edu/~gohlke/pythonlibs/#matplotlib
 3. numpy-1.8.0-win32-superpack-python2.7    http://www.lfd.uci.edu/~gohlke/pythonlibs/#numpy
 4. pyparsing-2.0.1.win32-py2.7 http://www.lfd.uci.edu/~gohlke/pythonlibs/#pyparsing
